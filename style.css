@@ -20,6 +20,10 @@ html{
 .pText{
   font-size: 1.5em;
 }
+
+.disclaimer {
+  font-size: 0.8em;
+}
   
   /* Add a gray background color and some padding to the footer */
 footer {
