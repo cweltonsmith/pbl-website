@@ -6,6 +6,10 @@
 .nav li {
   display: inline !important;
 }
+
+.pText{
+  font-size: 1.5em;
+}
   
   /* Add a gray background color and some padding to the footer */
 footer {
