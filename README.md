@@ -20,7 +20,7 @@ Group 1
 
 - Section 1 - Dr. Denise Case
 
-Chase Smith, Kevin Hart, Connor Bshears, Joseph Watts
+Chase Smith, Kevin Hart, Connor Beshears, Joseph Watts
 
 ## Images
 
